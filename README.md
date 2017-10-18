@@ -1,1 +1,2 @@
 # Single_vs_Multi
+This simulation investigates whether multi-member districts tend to produce fairer representation that single-member districts.  In particular, we use an MCMC algorithm to sample from the space of all possible district plans in a toy model and plot the relationship between voter ideology and elected official ideology for that sample. 
